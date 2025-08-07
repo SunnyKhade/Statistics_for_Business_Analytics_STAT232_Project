@@ -6,7 +6,7 @@ This project explores the **nycflights13** dataset to understand the causes of f
 
 ## 📘 Course Info
 
-**Course**: STAT 232 – Predictive Modeling  
+**Course**: STAT 232 – Statistics for Business Analytics  
 **Instructor**: Prof. Wenxiu Ma  
 **University**: University of California, Riverside
 ---
